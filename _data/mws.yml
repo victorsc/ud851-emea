@@ -102,29 +102,26 @@
 
   author_location: Yaroslavl, Russia
   author_avatar: https://avatars3.githubusercontent.com/u/3413067?s=460&v=4
-
-
-- name: Restaurant Reviews App
-  banner: https://i.imgur.com/ny6aCRM.jpg
+  
+  - name: Restaurant Review App
+  banner: https://i.imgur.com/ZVSkh4X.png
   links:
     - title: Github
       icon: github
-      url: https://github.com/MohamedSayed008/mws-restaurant-stage-1
+      url: https://github.com/victorsc/Udacity-Mobile-Web-Specialist-project
   description: |
-  Restaurant Progressive App that allow users to mark restaurants as favorite 
-  and add reviews to any restaurant while the user either online or offline.
+    A web application for reviewing restaurants. It is [x] responsive down to mobile
+    [x] accessible [x] offline ready [x] performant for PWA standards.
+    Check out the github repo for the Lighthouse scores!
     
-  author: Mohamed Sayed
+  author: Victor Scaiceanu
   author_links:
     - title: GitHub
       icon: github
-      url: https://github.com/mohamedsayed008
+      url: https://github.com/victorsc
     - title: LinkedIn
       icon: linkedin
-      url: www.linkedin.com/in/mohamedsayed008
-    - title: Facebook
-      icon: Facebook
-      url: https://www.facebook.com/mohamed3130
+      url: https://www.linkedin.com/in/victorscaiceanu/
 
-  author_location: Cairo, Egypt
-  author_avatar: https://avatars.githubusercontent.com/mohamedsayed008
+  author_location: Antibes, France
+  author_avatar: https://avatars0.githubusercontent.com/u/3286929

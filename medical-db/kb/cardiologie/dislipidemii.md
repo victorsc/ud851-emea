@@ -29,17 +29,36 @@ acid bempedoic Clasa I B la intoleranta la statine.
 | Moderat | < 100 mg/dL |
 | Scazut | < 116 mg/dL |
 
-### Treapta terapeutica [din memorie, de confirmat]
-1. Statina potenta, doza maxim tolerata.
-2. + Ezetimib daca tinta nu e atinsa.
-3. + Inhibitor PCSK9 (risc foarte mare / FH) daca persista peste tinta.
-4. Acid bempedoic: intoleranta la statine (conform actualizarii 2025).
+### Treapta terapeutica
+Verificat web (2026-10-30, rezumate secundare, nu textul ghidului):
+- SCA, pacient naiv la tratament si improbabil sa atinga tinta cu statina singura: statina de
+  intensitate mare + ezetimib inca din internarea index (Clasa IIa, Nivel B).
+- SCA, pacient deja pe hipolipemiante: intensificare in spital (Clasa I, Nivel C).
+- Acid bempedoic: intoleranta la statine (Clasa I, Nivel B); adaugat la statina maxim tolerata
+  +/- ezetimib la risc inalt/foarte inalt (Clasa IIa, Nivel C - sursa de nivel scazut, produc. medicamentului).
+- Reducere LDL-C aprox. 23% in monoterapie, 18% adaugat la statina (acid bempedoic) - aceeasi sursa secundara.
+- Pozitionarea inhibitorilor PCSK9: NU am gasit-o in materialul consultat.
+
+Din memorie (pana in iun. 2026), de confirmat pe PDF:
+1. Statina potenta, doza maxim tolerata (+ modificarea stilului de viata).
+2. Reevaluare la 4-6 saptamani; daca tinta nu e atinsa: + ezetimib.
+3. Inca peste tinta, risc foarte mare / FH: + inhibitor PCSK9 (evolocumab, alirocumab).
+4. Alternative: acid bempedoic (+/- ezetimib) la intoleranta; inclisiran (siRNA anti-PCSK9).
+5. Hipertrigliceridemie persistenta la risc inalt sub statina: se discuta icosapent etil.
+- Principiul actualizarii 2025: nu astepta luni intre trepte; combinatia se poate incepe devreme
+  cand distanta pana la tinta e mare.
+
+### Monitorizare [din memorie]
+- Profil lipidic la 4-12 saptamani dupa initiere/schimbare, apoi anual la stabil.
+- Transaminaze inainte de initiere si daca apar simptome; CK doar la simptome musculare.
 
 ## 3. Neverificat deloc
 - Ghidul ACC/AHA 2026 pentru dislipidemii apare mentionat intr-un document extern; nu l-am citit.
 - Orice doza, interactiune sau CI: de luat din RCP (anm.ro), nu din aceasta nota.
 
 ## 4. Surse
+- https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/All-ESC-Practice-Guidelines/Dyslipidaemias
+- https://www.clinicaltrialvanguard.com/?p=18411 (sursa promotionala - Esperion)
 - https://www.escardio.org/Councils/Council-for-Cardiology-Practice-(CCP)/Cardiopractice/what-is-new-in-the-2025-focused-update-of-the-2019-esc-eas-guidelines-for-the-m
 - https://www.metabolicum.com/news/2025-esc-eas-dyslipidaemia-update
 - https://medicaldialogues.in/amp/cardiology-ctvs/guidelines/esceas-2025-update-brings-new-recommendations-on-cholesterol-management-and-risk-assessment-154653
